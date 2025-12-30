@@ -1,7 +1,5 @@
 # 🎮 React + TypeScript Mini Game Hub
 
-# 🎮 React + TypeScript 小遊戲中心
-
 ![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-5.0.0-green?logo=vite)
