@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Position, GameState } from "./types";
+import type { Position, GameState } from "./types";
 
 export function useClickMonster() {
   const [state, setState] = useState<GameState>({
